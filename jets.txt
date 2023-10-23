@@ -1,0 +1,5 @@
+Combat, Borg Cube, 100005, 90023434, 23451
+Cargo, Twin Engine, 75, 250, 23000
+Cargo, USS Enterprise, 100010, 10023434, 23532
+Passenger, Dark Star, 3000, 10000, 357142
+Combat, Romulan Warbird, 175, 550, 53000
